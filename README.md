@@ -1,7 +1,10 @@
 # **TECAD**
-Caso: Escasez de agua en las zonas agropecuarias del Perú
+Caso:
+
+Escasez de agua en las zonas agropecuarias del Perú
 
 Proyecto:
+
 
 :notebook_with_decorative_cover: **Integrantes:**
 * *Achic Arredondo, Samantha Briseyda*
